@@ -1,0 +1,21 @@
+# KiCAD Temporary and Backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*~
+_autosave-*
+*.lock
+
+# Project-specific local settings
+fp-info-cache
+*.pyc
+
+# ERC and DRC directories/logs
+*.erc
+*.drc
+*.rpt
+
+# Manufacturing Output (Optional)
+# Uncomment the line below if you don't want to sync your Gerbers folder
+# Gerbers/
