@@ -16,6 +16,5 @@ fp-info-cache
 *.drc
 *.rpt
 
-# Manufacturing Output (Optional)
-# Uncomment the line below if you don't want to sync your Gerbers folder
-# Gerbers/
+# Manufacturing Output
+Gerbers/
